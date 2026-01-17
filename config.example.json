@@ -1,0 +1,4 @@
+{
+  "vault_path": "/path/to/your/obsidian/vault",
+  "output_path": "/path/to/output/vault_index.md"
+}

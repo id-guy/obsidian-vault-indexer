@@ -1,0 +1,22 @@
+# Config files containing personal paths
+config.json
+config.local.json
+*.local.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+
+# Logs
+*.log
+
+# Output files (the generated index)
+vault_index.md
